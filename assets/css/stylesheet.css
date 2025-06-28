@@ -26,6 +26,6 @@ p {
 }
 .i-class {
     color: white;
-     center;
+     justify-content: space-evenly;
     font-family: 'Macondo', sans-serif;
 }
