@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+:root {
+--font-family-1: "Macondo", sans-serif;
+}
+header h1  {
+    font-family: 'Macondo', sans-serif;
+    font-size: 200%;
+    color:black;
+}
+h2 {
+    font-family:'Macondo', sans-serif;
+    color:rgb(14, 13, 13);
+}
+body {
+    background-color: rgb(15, 14, 14);
+}
+nav {
+    background-color: white;;
+}
+#References {
+    background-color: white;
+}
+p {
+    color:white;
+}
