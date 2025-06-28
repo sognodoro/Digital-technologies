@@ -24,8 +24,9 @@ nav {
 p {
     color:white;
 }
-.i-class {
+footer .social-links {
     color: white;
      justify-content: space-evenly;
     font-family: 'Macondo', sans-serif;
+    padding: right 20px;
 }
