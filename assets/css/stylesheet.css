@@ -11,9 +11,20 @@ header h1  {
 h2 {
     font-family:'Macondo', sans-serif;
     color:rgb(14, 13, 13);
+    z-index: 99;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(94, 6, 181, 0.5); 
+    
+}
+h3 {
+    font-family: 'Macondo', sans-serif;
+    color: rgb(14, 13, 13);
+     text-decoration: underline;
 }
 body {
-    background-color: rgb(15, 14, 14);
+    background-color: rgb(53, 4, 137);
 }
 nav {
     background-color: white;;
@@ -41,11 +52,14 @@ footer .social-links a:hover {
 }
 footer p{
     font-family: 'Macondo', sans-serif;
-    color: black;
+    color: rgb(9, 8, 8);
     text-align: center;
     padding: 10px;
     font-size:150%;
 }
-footer {
-    background-color: rgb(13, 152, 143);
+#References {
+    background-color: rgb(229, 234, 234, 0.8);
+    background: url("./images/pexels-markus-winkler-1430818-18465016.jpg") no-repeat center center/cover;
+    padding: 20px;
+    color: black;
 }
