@@ -36,7 +36,7 @@ p {
     color:white;
 }
 footer .social-links a {
-    color: black;
+    color: rgb(239, 233, 233);
     text-decoration: none;
     padding-right:  50px;
     font-size:  200% !important;
@@ -59,7 +59,21 @@ footer p{
 }
 #References {
     background-color: rgb(229, 234, 234, 0.8);
-    background: url("./images/pexels-markus-winkler-1430818-18465016.jpg") no-repeat center center/cover;
+    background: url("./images/pexels-francesco-ungaro-998641.jpg") no-repeat center center/cover;
     padding: 20px;
     color: black;
+}
+#navbar {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background: url("./images/pexels-thisisengineering-3861969.jpg") no-repeat center center/cover;
+    color:whitesmoke;
+}
+#navbarNav .nav-link {
+    text-shadow: 2px 2px 4px rgba(94, 6, 181, 0.5);
+    color: rgb(14, 13, 13);
+}
+
+#navbarNav .nav-link:hover {
+    color: rgb(90, 27, 206);
 }
