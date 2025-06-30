@@ -26,9 +26,7 @@ h3 {
 body {
     background-color: rgb(53, 4, 137);
 }
-nav {
-    background-color: white;;
-}
+
 #References {
     background-color: white;
 }
@@ -44,6 +42,7 @@ footer .social-links a {
     align-items: center;
 
 
+
 }
 footer .social-links a:hover {
     color: rgb(90, 27, 206);
@@ -56,6 +55,10 @@ footer p{
     text-align: center;
     padding: 10px;
     font-size:150%;
+}
+#bg-color a:hover {
+    color: rgb(90, 27, 206);
+    text-decoration: none;
 }
 #References {
     background-color: rgb(229, 234, 234, 0.8);
